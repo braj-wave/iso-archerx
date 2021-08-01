@@ -128,9 +128,9 @@ zsh
 ###             VIA CALAMARES CONFIG                ###
 #######################################################
 
-alci-dwm
-alci-calamares
-alci-calamares-config
+#alci-dwm
+archerx-calamares
+archerx-calamares-config
 xterm
 
 #############
@@ -149,7 +149,7 @@ xorg-xrdb
 
 grub
 os-prober
-virtualbox-guest-utils
+#virtualbox-guest-utils -- for conflict reseans
 mkinitcpio-openswap
 
 #######################################################
